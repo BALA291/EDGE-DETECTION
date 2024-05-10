@@ -1,4 +1,4 @@
-# EDGE-DETECTION
+# EX-06 EDGE-DETECTION
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -67,14 +67,20 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 
-![output](./sobel.png)
+![6o](https://github.com/BALA291/EDGE-DETECTION/assets/120717501/353e5a78-bdfb-4060-bdc6-b265f39497a4)
+
+![6oi](https://github.com/BALA291/EDGE-DETECTION/assets/120717501/0304533f-81e4-4c9c-b64c-121a3e660839)
+
+![6oii](https://github.com/BALA291/EDGE-DETECTION/assets/120717501/a75a5d14-b85e-40a6-8e97-68c1c90f9747)
+
 
 ### LAPLACIAN EDGE DETECTOR
-![output](./laplacian.png)
 
+![6oiii](https://github.com/BALA291/EDGE-DETECTION/assets/120717501/09ad50c9-3337-49ee-9176-cd917a912f5d)
 
 ### CANNY EDGE DETECTOR
-![output](./canny.png)
+![6oiv](https://github.com/BALA291/EDGE-DETECTION/assets/120717501/279fc920-f872-4550-b287-8b037756c1b2)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
